@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+  }
+  body {
+    min-height: 100vh;
+    overflow-x: hidden;
+    font-family: Arial, sans-serif;
+    background-color: #f3f3f3;
+}
+.swiper {
+    width: 600px;
+    height: 300px;
+    /* background-color: #05445E; */
+  }
+
+  /* .diva{
+    background-color: #05445E;
+    width: 100%;
+  } */
+
+  .swiper-slide{
+
+    display: flex;
+    
+    justify-content: center;
+
+  }
